@@ -52,4 +52,4 @@ jobs:
           username: ${{ secrets.EC2_USERNAME }}
           key: ${{ secrets.ACTIONS_RUNNER_PRIVATE_KEY }}
           script: |
-            ./deploy.sh
+            ./deplody.sh
